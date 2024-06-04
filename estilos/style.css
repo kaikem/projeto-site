@@ -31,6 +31,12 @@ h2{
     color: blueviolet;
 }
 
+h2 span{
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
 h3{
     color: white;
     font-style: italic;
